@@ -16,3 +16,9 @@ Data Visualization Project with Shiny
 
 ## Table
 ![alt2](./images/table.png)
+
+## Helps
+
+1. https://alvaroferro.shinyapps.io/practica2/
+2. https://rinterface.github.io/bs4Dash/reference/index.html
+3. https://rstudio.github.io/shinydashboard/structure.html
